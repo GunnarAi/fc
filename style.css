@@ -1,0 +1,86 @@
+p {
+	text-align: center;
+}
+#banner {
+	width: 500px;
+	weight: 500px;
+	border: solid 5px;
+	margin-top: 70px;
+}
+
+#legal {
+    font-size: 20px;
+}
+
+body   {
+	background: #000000
+}
+
+.imagemtop {
+	width: 50%;
+}
+h3 {
+	text-align: center;
+	font-size: 40px;
+	color: #8B0000		
+
+}
+
+ul {
+	display: inline-block;
+	vertical-align: 150px;
+	width: 20%;
+	margin-left: 20%;
+	font-size: 20px;
+	color: #FFFFFF
+}
+.Comoentraremcontato {
+	padding: 30px;
+}
+.OqueOferecemos {
+	#background: #ADD8E6;
+	padding: 30px;
+}
+.mysterolympia {
+padding-right: 150px;
+}
+
+h1 {
+	font-size: 50px;
+	color: #FFFFFF
+}
+h4 {
+text-align: center;
+   weight: 50%;
+	font-size: 40px;
+	color: #00FF7F	
+}
+.telifone {
+	
+}
+h5{
+text-align: center;
+   weight: 30%;
+	font-size: 25px;
+	color: #FFFFFF;
+	}
+#telifone {
+	
+}
+h6 {
+float: left;
+
+
+
+
+}
+.telifone {
+	vertical-align: 50px;
+	
+ 
+ 
+   }
+
+   }
+
+
